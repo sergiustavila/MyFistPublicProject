@@ -1,4 +1,4 @@
-#!/usr/bin/pyton
+#!/usr/bin/python
 import sys
 from datetime import datetime
 aaa=sys.argv[1]
